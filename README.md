@@ -3,6 +3,7 @@
 ![License: ODbL](https://img.shields.io/badge/license-ODbL--1.0-blue)
 ![Format](https://img.shields.io/badge/format-GeoPackage-green)
 ![Coverage](https://img.shields.io/badge/coverage-198%20countries-orange)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bchini)
 
 One [GeoPackage](https://www.geopackage.org/) per country or territory —
 ready to open in **QGIS**, **ArcGIS**, or any GDAL/OGR-based tool. No need to

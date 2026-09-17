@@ -44,7 +44,9 @@ format that opens directly in standard GIS software.
 <!-- STATS_START -->
 ## Global statistics
 
-_Updated automatically once the full dataset has been published._
+- **Total building footprints published**: 2,719,625,406
+- **Total data size published**: 226.4 Go
+
 <!-- STATS_END -->
 
 ## License & attribution
